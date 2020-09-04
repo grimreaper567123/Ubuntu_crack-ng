@@ -1,0 +1,10 @@
+Ubuntu_Crack-ng v1.0
+ A Automatic aircrack-mg script of ubuntu
+ requirements:
+ 
+ aircrack-ng:
+ 	sudo apt-get update
+sudo apt-get install -y aircrack-ng
+
+	python:
+sudo apt-get install python3
