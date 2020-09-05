@@ -1,5 +1,5 @@
 Ubuntu_Crack-ng v1.0
- A Automatic aircrack-ng script of ubuntu.
+ A Automatic aircrack-ng script on ubuntu.
  requirements:
  
  aircrack-ng:
@@ -10,3 +10,4 @@ sudo apt-get install python3
 
 
 I am not responsible for whats done with this script
+tested on versions 20.04 and any that support aircrack-ng and python3
